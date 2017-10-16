@@ -1,1 +1,0 @@
-# Okcash-daemon-wallet-4.0.0.5-Raspberry-Pi
